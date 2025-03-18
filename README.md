@@ -1,7 +1,7 @@
 ## Oi!! Sou a Eva 👋
 
-- 🔭 I’m currently aprofundando minhas habilidades em Testes de Software/QA
-- 🌱 I’m learning Automação de testes
+- 🔭 Atualmente estou aprofundando minhas habilidades em Testes de Software/QA
+- 🌱 Estou aprendendo Automação de testes
 
   
 <div align="center">
