@@ -1,13 +1,13 @@
 ## Oi!! Sou a Eva 👋
 
 - 🔭 Atualmente estou aprofundando minhas habilidades em Testes de Software/QA
-- 🌱 Estou aprendendo Automação de testes
+- 🌱 Aprendendo mais sobre Automação de testes
 
-  
+
 <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evadominguez&layout=compact&langs_count=16&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evadominguez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- </div>
+ </div> 
  
  
  <div style="display: inline_block"><br>
